@@ -58,7 +58,7 @@ Missions
 
 Les images des missions, poster et thumb, sont nommées à partir de l'identifinat de la mission.
 
-.. NOTE::
+::
 
     Exemple pour la mission 1, l'image de présentation de cette mission sera : 01.jpg (Attention l'extension de fichier est en minuscule)
    
@@ -67,7 +67,7 @@ Les images des missions, poster et thumb, sont nommées à partir de l'identifin
 Taxons
 Les images des taxons, poster et thumb, sont nommées à partir de l'identifiant de la mission.
 
-.. NOTE::
+::
 
     Exemple pour le taxon 1, l'image de présentation de ce taxon sera : 01.jpg (Attention l'extension de fichier doir être en minuscule)
    
