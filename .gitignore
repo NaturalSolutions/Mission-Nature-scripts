@@ -8,9 +8,9 @@ www-*
 .npm
 .idea
 
-missions/missions.csv
-missions/taxons.csv
-missions/missions.json
-missions/photos/*
-missions/photos_full/*
-missions/photos-thumb/*
+missions.csv
+taxons.csv
+missions.json
+photos/*
+photos_full/*
+photos-thumb/*
