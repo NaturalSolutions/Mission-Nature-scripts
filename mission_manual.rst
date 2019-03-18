@@ -115,3 +115,8 @@ Afficher des images dans les textes
 ::
 
     <figure><img class='img-thumbnail mx-auto d-block' src='data/image_source/01.jpg' /><figcaption>Fig.1 - Trulli, Puglia, Italy.</figcaption></figure>
+
+Avec les crédits photographiques associés :
+::
+
+    <figure><img class='img-thumbnail mx-auto d-block' src='data\/image_source\/01_2.jpg'><div class='credits'>Mon crédit<\/div><figcaption>Nid ouvert de l'Hirondelle rustique<\/figcaption><\/figure>
