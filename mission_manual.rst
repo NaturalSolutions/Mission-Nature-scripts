@@ -106,6 +106,18 @@ Exemple en ligne de commande avec la bibliothèque Image Magic
     mogrify -path ../photos_thumb/ -thumbnail 256x256^ -gravity center -extent 256x256 *.jpg
 
 
+Pour les grandes photos, créer un dossier photos_full
+::
+
+    mogrify -path ../photos_full/ -resize 900x900 *.jpg
+
+
+Pour les photos dans les csv, créer un dossier photos_csv (par exemple)
+::
+
+    mogrify -path ../photos_csv/ -resize 700x700 *.jpg
+
+
 
 Afficher des images dans les textes
 ===================================
