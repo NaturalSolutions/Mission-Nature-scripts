@@ -1,0 +1,16 @@
+.DS_Store
+npm-debug.log
+debug.log
+*~
+www-*
+*.sublime*
+.vscode
+.npm
+.idea
+
+missions/missions.csv
+missions/taxons.csv
+missions/missions.json
+missions/photos/*
+missions/photos_full/*
+missions/photos-thumb/*
