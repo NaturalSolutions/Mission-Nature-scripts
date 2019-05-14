@@ -44,6 +44,23 @@ PLacez le fichier "missions.json" dans le dossier :
     www/data
 
 
+===============================
+Transformer les fichiers cities
+===============================
+
+Utiliser un outil sur le web pour passer le fichier csv en json (exemple : https://www.csvjson.com/csv2json)
+Placez- le fichier dans le même dossier que le script mission_tojson.php
+
+PLacez le fichier "cities.json" dans le dossier :
+::
+
+    www/data
+
+
+Attention pour le fichier cities, il est lié à un fichier d'indexation "cities_index.json".
+Il n'y a pas de script pour le générer pour le moment.
+
+
 Images
 ======
 
